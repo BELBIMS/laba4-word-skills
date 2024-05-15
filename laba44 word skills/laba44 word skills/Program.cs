@@ -1,4 +1,3 @@
-﻿// Импорт пространств имен
 // using ReadersNamespace; - пространство имен для класса Reader
 // using StudentsNamespace; - пространство имен для класса Student
 // using System; - пространство имен для класса Console
